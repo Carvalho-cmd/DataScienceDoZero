@@ -1,5 +1,5 @@
 ''''
-SITUACAO HIPOTÉTICA -
+SITUACAO HIPOTÉTICA -+
 
 Fomos contratados para coordenar o setor de data science da DataSciencester, a rede social dos cientistas de dados.
 
